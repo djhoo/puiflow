@@ -1,0 +1,30 @@
+#div_left
+{
+    width:50px;
+    height:100%;
+    background: aqua;
+    float:left;
+    line-height:30px;
+    padding:5px; 
+}
+#div_right
+{
+    height:100%;
+    float:none;
+    background-color: azure;
+    text-align:left;
+}
+
+#section
+{
+    overflow : hidden;
+    height: 700px;
+
+}
+#rect
+{
+    background:url(../img/rect.png);
+    width:  40px;
+    height: 40px;
+
+}
